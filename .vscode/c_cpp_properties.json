@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/swarm/Fast-Racing/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/swarm/Fast-Racing/src/airsim_ros_pkgs/include/**",
+        "/home/swarm/Fast-Racing/src/sfc/DecompROS/decomp_ros_utils/include/**",
+        "/home/swarm/Fast-Racing/src/utils/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/swarm/Fast-Racing/src/octomap_server/include/**",
+        "/home/swarm/Fast-Racing/src/path_searching/include/**",
+        "/home/swarm/Fast-Racing/src/plan_manage/include/**",
+        "/home/swarm/Fast-Racing/src/utils/uav_simulator/Utils/pose_utils/include/**",
+        "/home/swarm/Fast-Racing/src/utils/quadrotor_msgs/include/**",
+        "/home/swarm/Fast-Racing/src/utils/uav_simulator/so3_control/include/**",
+        "/home/swarm/Fast-Racing/src/utils/uav_simulator/so3_disturbance_generator/include/**",
+        "/home/swarm/Fast-Racing/src/utils/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/swarm/Fast-Racing/src/utils/traj_server/include/**",
+        "/home/swarm/Fast-Racing/src/utils/uav_simulator/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
